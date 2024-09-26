@@ -1,2 +1,2 @@
 # Gustavo_Cafe
-Simple Cafe Menu
+Simple cafe menu for HTML & CSS Real-life Application training
